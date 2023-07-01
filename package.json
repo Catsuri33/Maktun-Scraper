@@ -1,13 +1,13 @@
 {
-  "name": "maktunscrapper",
+  "name": "maktun-scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Catsuri33",
-  "license": "ISC",
+  "author": "Catsuri33/Louis Michault",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
     "fs": "^0.0.1-security",
