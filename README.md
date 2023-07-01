@@ -1,6 +1,8 @@
 # Maktun-Scrapper
 Get data from the Maktun website which is a website for the numismatists.
 
+This project is built with NodeJS and use FS and Puppeteer.
+
 # To Do
 
 - [x] Connect to the website and navigate to the collection page.
